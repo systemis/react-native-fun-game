@@ -1,0 +1,11 @@
+dependencies: \
+  /Users/nickpham/Desktop/fun/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.mm \
+  /Users/nickpham/Desktop/fun/ios/Pods/Target\ Support\ Files/React-DevSupport/React-DevSupport-prefix.pch \
+  /Users/nickpham/Desktop/fun/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/nickpham/Desktop/fun/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/nickpham/Desktop/fun/ios/Pods/Headers/Private/React-DevSupport/React/RCTInspectorPackagerConnection.h \
+  /Users/nickpham/Desktop/fun/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/nickpham/Desktop/fun/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/nickpham/Desktop/fun/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/nickpham/Desktop/fun/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nickpham/Desktop/fun/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
