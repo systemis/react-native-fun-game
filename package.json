@@ -8,8 +8,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "matter-js": "^0.14.2",
     "react": "16.8.6",
-    "react-native": "0.60.4"
+    "react-native": "0.60.4",
+    "react-native-game-engine": "^0.11.5"
   },
   "devDependencies": {
     "@babel/core": "7.5.5",

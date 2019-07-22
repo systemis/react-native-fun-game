@@ -8,6 +8,35 @@
 		<data>
 		Xq0W2uxg6NQLU/B2dqhFeQTYNrk=
 		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		HK6asLJ70IK7E4e83e8R1gxACHo=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		/8LQToTPOL9FsEsYDaACQ21Day0=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		P6P66kW7+LvLIo4WHjXGltpT8CA=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		xKX69bDGMJa2TcU/BC9ypZ06rsI=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		/A5SIJX3e1o6rkRthSywSYCSYSk=
@@ -15,6 +44,26 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PlugIns/funTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		r02gMbRCBYSfHuM41edcYKrSYhc=
+		</data>
+		<key>PlugIns/funTests.xctest.dSYM/Contents/Resources/DWARF/funTests</key>
+		<data>
+		6TUSMUlSQ4Jc4LlZH7EitmvVAA8=
+		</data>
+		<key>PlugIns/funTests.xctest/Info.plist</key>
+		<data>
+		+ty+qYMWB6RLKn3rmHy9iEfPAVU=
+		</data>
+		<key>PlugIns/funTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		C6d2QqMnKBoU62Lca/s4e7PtWjc=
+		</data>
+		<key>PlugIns/funTests.xctest/funTests</key>
+		<data>
+		E2qtvdgPs3XMdzUw9SDDWNS68Jo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -28,6 +77,129 @@
 			<key>hash2</key>
 			<data>
 			dRH8Y2FaxOvz1AW5KIlByPC1LdLX5ldo4+FM2C1aTds=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			VfVpYXVjG5OK2j8J39CP2mIMg1P5eFaYkRIJ/Hb2RSQ=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HK6asLJ70IK7E4e83e8R1gxACHo=
+			</data>
+			<key>hash2</key>
+			<data>
+			olgg9NXiZ2M1ifvjBR8uTJxtXlM5EacLdDrNxfmImoY=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/8LQToTPOL9FsEsYDaACQ21Day0=
+			</data>
+			<key>hash2</key>
+			<data>
+			C7sJpbu4qpi8/rH5JYpdQYncotP69JQ9Fiu8jrHXYvU=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P6P66kW7+LvLIo4WHjXGltpT8CA=
+			</data>
+			<key>hash2</key>
+			<data>
+			2BV684CZjHtMZHxSiwC5qc/DGXv9WIOWUc9dEU/Q1pw=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xKX69bDGMJa2TcU/BC9ypZ06rsI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jJ/zKe1SwWk9KkZ4MXV01NPW4QiHpU1aZhpfTDknkp0=
+			</data>
+		</dict>
+		<key>PlugIns/funTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r02gMbRCBYSfHuM41edcYKrSYhc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ndzjuo007jAv3dx3SSDMS9qEbCmMYoHL2K1S9QNR9rs=
+			</data>
+		</dict>
+		<key>PlugIns/funTests.xctest.dSYM/Contents/Resources/DWARF/funTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6TUSMUlSQ4Jc4LlZH7EitmvVAA8=
+			</data>
+			<key>hash2</key>
+			<data>
+			+q+c0I+WHc01PHeTOsXHoMCAPZOEy+/lX1l2XB4Tz+c=
+			</data>
+		</dict>
+		<key>PlugIns/funTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+ty+qYMWB6RLKn3rmHy9iEfPAVU=
+			</data>
+			<key>hash2</key>
+			<data>
+			XRhLAAhP2VOuZK5YqFVA3JdfSnwLlw5xyspk77wdWDU=
+			</data>
+		</dict>
+		<key>PlugIns/funTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C6d2QqMnKBoU62Lca/s4e7PtWjc=
+			</data>
+			<key>hash2</key>
+			<data>
+			X9DVkq+Ym4vJnEz9pqUxlHfaFjqJsAbAzjaKPDX9SKA=
+			</data>
+		</dict>
+		<key>PlugIns/funTests.xctest/funTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E2qtvdgPs3XMdzUw9SDDWNS68Jo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pr0nX5PjJaA3Epupx3VrGvuW0KvxWyY5iow97eUHbnU=
 			</data>
 		</dict>
 	</dict>
